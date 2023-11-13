@@ -23,7 +23,8 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT:
-![](distance-2.png)
+![distance](https://github.com/RenukaRamesh/DISTANCE-BETWEEN-TWO-POINTS/assets/145742979/bdba441a-aec0-4701-973f-aad556d00d29)
+
 
 ### RESULT:
 Thus distance between two points successfully executed
